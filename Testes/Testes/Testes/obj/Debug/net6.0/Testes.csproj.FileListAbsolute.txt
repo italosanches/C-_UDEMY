@@ -1,0 +1,15 @@
+C:\Curso c#\Testes\Testes\Testes\bin\Debug\net6.0\Testes.exe
+C:\Curso c#\Testes\Testes\Testes\bin\Debug\net6.0\Testes.deps.json
+C:\Curso c#\Testes\Testes\Testes\bin\Debug\net6.0\Testes.runtimeconfig.json
+C:\Curso c#\Testes\Testes\Testes\bin\Debug\net6.0\Testes.dll
+C:\Curso c#\Testes\Testes\Testes\bin\Debug\net6.0\Testes.pdb
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.csproj.AssemblyReference.cache
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.AssemblyInfoInputs.cache
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.AssemblyInfo.cs
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.csproj.CoreCompileInputs.cache
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.dll
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\refint\Testes.dll
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.pdb
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\Testes.genruntimeconfig.cache
+C:\Curso c#\Testes\Testes\Testes\obj\Debug\net6.0\ref\Testes.dll
