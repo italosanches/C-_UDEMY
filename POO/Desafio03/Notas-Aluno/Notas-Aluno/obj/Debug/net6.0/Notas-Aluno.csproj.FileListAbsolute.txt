@@ -1,0 +1,15 @@
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\bin\Debug\net6.0\Notas-Aluno.exe
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\bin\Debug\net6.0\Notas-Aluno.deps.json
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\bin\Debug\net6.0\Notas-Aluno.runtimeconfig.json
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\bin\Debug\net6.0\Notas-Aluno.dll
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\bin\Debug\net6.0\Notas-Aluno.pdb
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.csproj.AssemblyReference.cache
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.AssemblyInfoInputs.cache
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.AssemblyInfo.cs
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.csproj.CoreCompileInputs.cache
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.dll
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\refint\Notas-Aluno.dll
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.pdb
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\Notas-Aluno.genruntimeconfig.cache
+C:\Curso c#\POO\Desafio03\Notas-Aluno\Notas-Aluno\obj\Debug\net6.0\ref\Notas-Aluno.dll

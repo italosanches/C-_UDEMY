@@ -1,0 +1,15 @@
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\bin\Debug\net6.0\Salario.exe
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\bin\Debug\net6.0\Salario.deps.json
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\bin\Debug\net6.0\Salario.runtimeconfig.json
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\bin\Debug\net6.0\Salario.dll
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\bin\Debug\net6.0\Salario.pdb
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.csproj.AssemblyReference.cache
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.AssemblyInfoInputs.cache
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.AssemblyInfo.cs
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.csproj.CoreCompileInputs.cache
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.dll
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\refint\Salario.dll
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.pdb
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\Salario.genruntimeconfig.cache
+C:\Curso c#\POO\Desafio02\Salario\Salario\Salario\obj\Debug\net6.0\ref\Salario.dll
