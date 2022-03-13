@@ -1,0 +1,15 @@
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.exe
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.deps.json
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.runtimeconfig.json
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.dll
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.pdb
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.csproj.AssemblyReference.cache
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.AssemblyInfoInputs.cache
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.AssemblyInfo.cs
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.csproj.CoreCompileInputs.cache
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.dll
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\refint\EstoqueProduto.dll
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.pdb
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.genruntimeconfig.cache
+C:\Curso c#\Testes\Estoque-Produto\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\ref\EstoqueProduto.dll

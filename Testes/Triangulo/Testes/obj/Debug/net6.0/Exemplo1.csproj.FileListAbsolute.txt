@@ -1,0 +1,15 @@
+C:\Curso c#\Testes\Triangulo\Testes\bin\Debug\net6.0\Exemplo1.exe
+C:\Curso c#\Testes\Triangulo\Testes\bin\Debug\net6.0\Exemplo1.deps.json
+C:\Curso c#\Testes\Triangulo\Testes\bin\Debug\net6.0\Exemplo1.runtimeconfig.json
+C:\Curso c#\Testes\Triangulo\Testes\bin\Debug\net6.0\Exemplo1.dll
+C:\Curso c#\Testes\Triangulo\Testes\bin\Debug\net6.0\Exemplo1.pdb
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.csproj.AssemblyReference.cache
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.AssemblyInfoInputs.cache
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.AssemblyInfo.cs
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.dll
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\refint\Exemplo1.dll
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.pdb
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\Exemplo1.genruntimeconfig.cache
+C:\Curso c#\Testes\Triangulo\Testes\obj\Debug\net6.0\ref\Exemplo1.dll
