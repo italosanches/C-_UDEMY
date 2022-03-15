@@ -1,0 +1,15 @@
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\refint\ConversorDeMoeda.dll
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Curso c#\Desafios\Membros Staticos\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
