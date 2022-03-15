@@ -1,0 +1,15 @@
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\refint\Construtores.dll
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+C:\Curso c#\Construtores-this-sobrecarga\Construtores\Construtores\Construtores\obj\Debug\net6.0\ref\Construtores.dll
