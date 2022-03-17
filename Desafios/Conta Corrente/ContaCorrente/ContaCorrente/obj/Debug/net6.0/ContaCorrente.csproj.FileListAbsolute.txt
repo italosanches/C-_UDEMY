@@ -1,0 +1,15 @@
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.exe
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.deps.json
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.runtimeconfig.json
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.dll
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\bin\Debug\net6.0\ContaCorrente.pdb
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.csproj.AssemblyReference.cache
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.AssemblyInfoInputs.cache
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.AssemblyInfo.cs
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.dll
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\refint\ContaCorrente.dll
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.pdb
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ContaCorrente.genruntimeconfig.cache
+C:\Curso c#\Desafios\Conta Corrente\ContaCorrente\ContaCorrente\obj\Debug\net6.0\ref\ContaCorrente.dll
