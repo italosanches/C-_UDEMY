@@ -6,36 +6,41 @@ namespace ContaCorrente
     {
         public static void Main (string[] args)
         {
-            
+            Conta contacorrente;
 
             Console.Write("Digite o numero da conta corrente: ");
             int conta = int.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             Console.Write("Digite o nome do titular da conta corrente :");
             string titular =Console.ReadLine();
 
-            Conta contacorrente = new Conta(conta, titular);
+            
 
             Console.WriteLine("Havera deposito inicial na conta? S/N");
-            string opcao =Console.ReadLine().ToUpper();
+            char opcao =char.Parse(Console.ReadLine().ToUpper());
 
-            if(opcao == "S")
+            if(opcao == 'S')
             {
                 Console.Write("Digite o valor do deposito: ");
                 double deposito = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-                contacorrente.Deposito(deposito);
+                contacorrente = new Conta(conta,titular,deposito);
+                
+            }
+            else
+            {
+                contacorrente = new Conta(conta,titular);
             }
             Console.WriteLine(contacorrente);
             
 
             Console.Write("Entre um valor para deposito: ");
-            double primeiroDeposito = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            contacorrente.Deposito(primeiroDeposito);
+            double quantia = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            contacorrente.Deposito(quantia);
             Console.WriteLine("Dados da conta atualizado:");
             Console.WriteLine(contacorrente);
 
             Console.WriteLine("Digite o valor para saque ");
-            double valorSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            contacorrente.Saque(valorSaque);
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            contacorrente.Saque(quantia);
             
 
             if(contacorrente.VerificaSaldo())

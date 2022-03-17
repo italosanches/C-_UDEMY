@@ -18,7 +18,12 @@ namespace ContaCorrente
         {
             ContaCorrente = conta;
             _titular = titular;
-            Saldo = 0;
+
+        }
+        public Conta(int conta, string titular, double depositoInicial) : this(conta, titular)
+        {
+
+            Deposito(depositoInicial);
         }
 
         public string Titular
@@ -26,7 +31,7 @@ namespace ContaCorrente
             get { return _titular; }
             set
             {
-                if (value != null && value.Length >1)
+                if (value != null && value.Length > 1)
                 {
                     _titular = value;
                 }
@@ -38,13 +43,13 @@ namespace ContaCorrente
             Saldo += deposito;
         }
 
-        public void Saque (double saque)
+        public void Saque(double saque)
         {
-             Saldo =Saldo - saque - 5;
-            
+            Saldo -=saque + 5.00;
+
         }
 
-        public bool VerificaSaldo ()
+        public bool VerificaSaldo()
         {
             if (Saldo >= 0)
             {
@@ -52,14 +57,14 @@ namespace ContaCorrente
             }
             else
             {
-               return false;
+                return false;
             }
         }
-         
+
 
         public override string ToString()
         {
-            return "Conta: " + ContaCorrente + "  Titular: "+ _titular + "  Saldo: $ "+Saldo.ToString("F2",CultureInfo.InvariantCulture);
+            return "Conta: " + ContaCorrente + "  Titular: " + _titular + "  Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
 
