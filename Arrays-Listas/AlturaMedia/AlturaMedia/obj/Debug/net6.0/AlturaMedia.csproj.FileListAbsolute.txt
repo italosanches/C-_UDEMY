@@ -1,0 +1,15 @@
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.exe
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.deps.json
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.runtimeconfig.json
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.dll
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.pdb
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.csproj.AssemblyReference.cache
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.AssemblyInfoInputs.cache
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.AssemblyInfo.cs
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.csproj.CoreCompileInputs.cache
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.dll
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\refint\AlturaMedia.dll
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.pdb
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.genruntimeconfig.cache
+C:\Curso c#\Arrays-Listas\AlturaMedia\AlturaMedia\obj\Debug\net6.0\ref\AlturaMedia.dll

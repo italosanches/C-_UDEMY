@@ -1,0 +1,15 @@
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\bin\Debug\net6.0\MediaProduto.exe
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\bin\Debug\net6.0\MediaProduto.deps.json
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\bin\Debug\net6.0\MediaProduto.runtimeconfig.json
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\bin\Debug\net6.0\MediaProduto.dll
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\bin\Debug\net6.0\MediaProduto.pdb
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.csproj.AssemblyReference.cache
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.AssemblyInfoInputs.cache
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.AssemblyInfo.cs
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.csproj.CoreCompileInputs.cache
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.dll
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\refint\MediaProduto.dll
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.pdb
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\MediaProduto.genruntimeconfig.cache
+C:\Curso c#\Arrays-Listas\MediaProduto\MediaProduto\obj\Debug\net6.0\ref\MediaProduto.dll
