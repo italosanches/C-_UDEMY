@@ -1,0 +1,15 @@
+C:\Curso c#\Desafios\SalarioFuncionarios\bin\Debug\net6.0\SalarioFuncionarios.exe
+C:\Curso c#\Desafios\SalarioFuncionarios\bin\Debug\net6.0\SalarioFuncionarios.deps.json
+C:\Curso c#\Desafios\SalarioFuncionarios\bin\Debug\net6.0\SalarioFuncionarios.runtimeconfig.json
+C:\Curso c#\Desafios\SalarioFuncionarios\bin\Debug\net6.0\SalarioFuncionarios.dll
+C:\Curso c#\Desafios\SalarioFuncionarios\bin\Debug\net6.0\SalarioFuncionarios.pdb
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.csproj.AssemblyReference.cache
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.AssemblyInfoInputs.cache
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.AssemblyInfo.cs
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.dll
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\refint\SalarioFuncionarios.dll
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.pdb
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\SalarioFuncionarios.genruntimeconfig.cache
+C:\Curso c#\Desafios\SalarioFuncionarios\obj\Debug\net6.0\ref\SalarioFuncionarios.dll
