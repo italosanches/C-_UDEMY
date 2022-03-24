@@ -1,0 +1,15 @@
+C:\Curso c#\Desafios\Matrizes\bin\Debug\net6.0\Matrizes.exe
+C:\Curso c#\Desafios\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+C:\Curso c#\Desafios\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+C:\Curso c#\Desafios\Matrizes\bin\Debug\net6.0\Matrizes.dll
+C:\Curso c#\Desafios\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.dll
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+C:\Curso c#\Desafios\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll
