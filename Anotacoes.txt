@@ -1,9 +1,0 @@
-Atributos do tipo private iniciam com _ e letra minuscula
-
-Ordem sugeria impementação classe c#
-
-Atributos privatos
-Propriedades autoimplementadas
-Construtores
-Propriedades customizadas
-Outros metodos da classe
