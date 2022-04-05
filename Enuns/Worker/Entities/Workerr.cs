@@ -7,7 +7,7 @@ using Worker.Entities.Enuns;
 
 namespace Worker.Entities
 {
-    class Worker
+    class Workerr
     {
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
@@ -17,12 +17,12 @@ namespace Worker.Entities
 
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
-        public Worker()
+        public Workerr()
         {
 
         }
 
-        public Worker(string name, WorkerLevel level, double baseSalary, Department department)
+        public Workerr(string name, WorkerLevel level, double baseSalary, Department department)
         {
             Name = name;
             Level = level;
