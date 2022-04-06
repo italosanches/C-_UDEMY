@@ -1,0 +1,15 @@
+C:\Curso c#\Desafios\Orders_Enuns\bin\Debug\net6.0\Orders_Enuns.exe
+C:\Curso c#\Desafios\Orders_Enuns\bin\Debug\net6.0\Orders_Enuns.deps.json
+C:\Curso c#\Desafios\Orders_Enuns\bin\Debug\net6.0\Orders_Enuns.runtimeconfig.json
+C:\Curso c#\Desafios\Orders_Enuns\bin\Debug\net6.0\Orders_Enuns.dll
+C:\Curso c#\Desafios\Orders_Enuns\bin\Debug\net6.0\Orders_Enuns.pdb
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.csproj.AssemblyReference.cache
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.AssemblyInfoInputs.cache
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.AssemblyInfo.cs
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.csproj.CoreCompileInputs.cache
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.dll
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\refint\Orders_Enuns.dll
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.pdb
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\Orders_Enuns.genruntimeconfig.cache
+C:\Curso c#\Desafios\Orders_Enuns\obj\Debug\net6.0\ref\Orders_Enuns.dll
